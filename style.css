@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: rgb(133, 133, 195);
+}
+
+main {
+  display: block;
+}
+.card {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  background: white;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.7rem 1.2rem;
+  background: rgb(118, 1, 118);
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+}
